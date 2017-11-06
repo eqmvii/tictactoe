@@ -1,0 +1,117 @@
+body
+{
+    background-color: #e2d8ff;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
+
+#banner
+{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#container
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 640px;
+}
+
+#boardcontainer
+{
+    margin-left: auto;
+    margin-right: auto;
+    height: 360px; 
+    width: 360px;
+}
+
+.undertext
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 420px;
+    height: 70px;
+    text-align: center;
+    border-top: 1px solid black;
+    line-height: 70px;
+}
+
+.difficultybox
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 420px;
+    height: 70px;
+    text-align: center;
+    border-top: 1px solid black;
+
+}
+
+.box 
+{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    float: left;
+    margin: 1px;
+    padding: 8px;
+    background-color: #ededed;
+    line-height: 100px;
+    text-align: center;  
+    font-weight: bold;
+    font-size: 54px;
+    color: white;
+}
+
+.box:hover
+{
+    cursor: pointer;
+    color: #f2f2f2;
+}
+
+#box1, box4, box7
+{
+    clear: left;
+}
+
+.exes
+{
+    background-color: #ff8181;
+}
+
+.ohs
+{
+    background-color: #929eff;
+}
+
+.victory
+{
+    background-color: #42c21d;
+}
+
+button
+{
+  background: #3498db;
+  border-radius: 15px;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 10px 20px 10px 20px;
+  border: solid #1f628d 2px;
+  text-decoration: none;
+}
+
+button:hover 
+{
+  background: #3cb0fd;
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.hidden
+{
+    display: none;
+}
