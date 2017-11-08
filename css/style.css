@@ -1,8 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed:400,700|Bungee+Shade');
+
 body
 {
-    background-color: #e2d8ff;
-    font-family: Arial, sans-serif;
-    font-size: 18px;
+    background-color: #fffffff6;
+    font-family: 'Barlow Condensed', Arial, sans-serif;
+    font-size: 24px;
+}
+
+h1 {
+    font-family: 'Bungee Shade', sans-serif;
+    color: rgb(4, 4, 49);
+    font-size: 52px;    
+    font-weight: normal;
 }
 
 #banner
@@ -62,7 +71,7 @@ body
     line-height: 100px;
     text-align: center;  
     font-weight: bold;
-    font-size: 54px;
+    font-size: 72px;
     color: white;
 }
 
@@ -114,4 +123,9 @@ button:hover
 .hidden
 {
     display: none;
+}
+
+.centered 
+{
+    text-align: center;
 }
