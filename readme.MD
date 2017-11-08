@@ -1,7 +1,9 @@
 # Tic Tac Toe
 
-A simple interactive tic tac toe game made with vanilla JavaScript. It has a selectable difficult level, although it is not a perfect AI. 
+A simple interactive tic tac toe game made with vanilla JavaScript, HTML, and CSS (no libraries). 
 
-See it live: https://codepen.io/eqmvii/pen/YVyjrg
+It has a selectable difficult level, although it is not a perfect AI. 
+
+See it live: https://eqmvii.github.io/tictactoe/index.html
 
  
