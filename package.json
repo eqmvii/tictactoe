@@ -1,0 +1,26 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "tictactoe with a brain",
+  "main": "index.js",
+  "dependencies": {
+    "synaptic": "^1.1.4"
+  },
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eqmvii/tictactoe.git"
+  },
+  "author": "eqmvii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eqmvii/tictactoe/issues"
+  },
+  "homepage": "https://github.com/eqmvii/tictactoe#readme"
+}
